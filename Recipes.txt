@@ -5,7 +5,14 @@ Sample recipe1
 Sample recipe2
 Sample recipe 3 (NEW!)
 
+beans
+Pizza
+
 
 Thx for reading
 
+
+Done my changes
+
 done
+
